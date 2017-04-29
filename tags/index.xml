@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Unknown Unknowns</title>
+    <title>Tags on All about envir chem</title>
     <link>https://tttonytian.github.io/tags/</link>
-    <description>Recent content in Tags on Unknown Unknowns</description>
+    <description>Recent content in Tags on All about envir chem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://tttonytian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
