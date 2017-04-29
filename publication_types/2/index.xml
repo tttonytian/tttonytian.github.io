@@ -7,15 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2013 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://tttonytian.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Concentration and distribution of PCNs in ambient soil of a municipal solid waste incinerator</title>
+      <link>https://tttonytian.github.io/publication/dioxins-in-the-soil-around-mswi/</link>
+      <pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://tttonytian.github.io/publication/person-re-identification/</guid>
+      <guid>https://tttonytian.github.io/publication/dioxins-in-the-soil-around-mswi/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mono- to Octa-Chlorinated PCDD/Fs in Stack Gas from Typical Waste Incinerators and Their Implications on Emission</title>
+      <link>https://tttonytian.github.io/publication/low-chlorinated-dioxins/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://tttonytian.github.io/publication/low-chlorinated-dioxins/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
