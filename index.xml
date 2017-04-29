@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All about envir chem on All about envir chem</title>
+    <title>All about envir chem</title>
     <link>https://tttonytian.github.io/</link>
-    <description>Recent content in All about envir chem on All about envir chem</description>
+    <description>Recent content on All about envir chem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tttonytian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
